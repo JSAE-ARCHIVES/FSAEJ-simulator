@@ -11,9 +11,9 @@ TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo U
 # Installation
 ### Preparation
 ##### Required
-- Steam(https://store.steampowered.com/about/)
-- Assetto Corsa (https://store.steampowered.com/app/244210/Assetto_Corsa/)
-- Content Manager(https://assettocorsa.club/content-manager.html)
+- [Steam](https://store.steampowered.com/about/)
+- [Assetto Corsa](https://store.steampowered.com/app/244210/Assetto_Corsa/)
+- [Content Manager](https://assettocorsa.club/content-manager.html)
 - NK16_ICV
 - FSAEJ_Endurance
 ##### Option
@@ -26,5 +26,4 @@ C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars
 3.place "FSAEJ_Endurance" file in tracks folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks  
 
-Contentmanager
-https://acstuff.ru/app/
+
