@@ -8,7 +8,7 @@ This package is FSAEJ MOD for Assetto Corsa. It contains ICV car(NK16_ICV) and E
 TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo University of Agriculture and Technology
 ![preview](https://user-images.githubusercontent.com/81402033/112591112-33ee2780-8e47-11eb-951c-396fc2bc2778.jpg)
 
-# インストール方法-Installation-
+# インストール方法 -Installation-
 ### 準備 -Preparation-
   
 ##### 必須 -Required-
@@ -21,7 +21,7 @@ TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo U
 - InvalidateLap app (Download from this Github)
   
 ### 手順 -Instruction-
-1. download file from releases.  
+1. download all files from releases.  
 2. place "NK16_ICV" file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
 3.place "FSAEJ_Endurance" file in tracks folder.  
