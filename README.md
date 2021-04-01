@@ -40,7 +40,8 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 
 ![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)  
 ダウンロードされた`FSAEJ-simulator-main.zip`を解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．
-![image](https://user-images.githubusercontent.com/81402033/113248136-5379ca00-92f7-11eb-8705-8d4c5ecc4e8f.png)  
+![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
+
 
 - コースMODの導入  
 `FSAEJ_Endurance`フォルダを
@@ -49,7 +50,8 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 ![image](https://user-images.githubusercontent.com/81402033/113248909-c9cafc00-92f8-11eb-93b3-34111c96879b.png)
 
 - 車両MODの導入  
-![image](https://user-images.githubusercontent.com/81402033/113248839-aacc6a00-92f8-11eb-8e95-430fd9249157.png)
+![image](https://user-images.githubusercontent.com/81402033/113249109-20383a80-92f9-11eb-8b9b-bed8953737e9.png)
+
 
 - パイロンタッチカウントの導入  
 
