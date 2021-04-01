@@ -26,7 +26,7 @@ ___
 ### 2. Content Managerのダウンロード 
  [Content Manager](https://assettocorsa.club/content-manager.html)のサイトを開き，下へスクロールすると「Download Lite Version:」の項目が出てくる．  
 Download directlyをクリック．（Download from Google DriveでもOK）
-<img src="https://user-images.githubusercontent.com/81402033/113232605-75b01f80-92d8-11eb-8815-62db18d7b553.png" width="100px">
+<img src="https://user-images.githubusercontent.com/81402033/113232605-75b01f80-92d8-11eb-8815-62db18d7b553.png" width="400px">
 
 ダウンロードされた`Latest.zip`を解凍すると，`latest`フォルダーの中に`Content Manager.exe`と`ReadMe.txt`が作成される．  
 `Content Manager.exe`をダブルクリックすると，コンテンツマネージャーが起動する．  
