@@ -30,7 +30,8 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 `Content Manager.exe`をダブルクリックすると，Content Managerが起動する．  
 
 **[注意]  
-MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**
+MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**  
+
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
