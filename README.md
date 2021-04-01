@@ -74,7 +74,7 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 
 ![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
 
-レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．
+レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．  
 **[注意]  
 連続でパイロンを踏んだ時などはカウントできていないことがあります．**
 
