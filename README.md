@@ -63,7 +63,20 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 `InvalidateLap`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
 に配置する． 
+
 ![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)
+Content Managerを起動し，Settings→Custom Shaders Patchへ移動．  
+Yes, please をクリックし，Custom Shaders Patchをオンにする．  
+
+![image](https://user-images.githubusercontent.com/81402033/113259074-aeb3b880-9307-11eb-8357-76f1c20c3893.png)
+
+GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し，オフにする．　　
+
+![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
+
+
+
+
 
 
 
