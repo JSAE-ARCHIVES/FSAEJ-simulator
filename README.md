@@ -81,9 +81,9 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 
 # 補足情報
 - FSAE Car   
-[Formula Student UCM 2016](https://www.racedepartment.com/downloads/formula-student-ucm-2016.19272/) - EV車両  
-[MAD Formula Team MFTC3](https://www.racedepartment.com/downloads/mad-formula-team-mftc3.36690/) - ICV車両  
-[FSAE: Monash Motorsport M17c](https://www.racedepartment.com/downloads/fsae-monash-motorsport-m17c.35841/) - ICV車両  
+[Formula Student UCM 2016](https://www.racedepartment.com/downloads/formula-student-ucm-2016.19272/) - EV  
+[MAD Formula Team MFTC3](https://www.racedepartment.com/downloads/mad-formula-team-mftc3.36690/) - ICV  
+[FSAE: Monash Motorsport M17c](https://www.racedepartment.com/downloads/fsae-monash-motorsport-m17c.35841/) - ICV  
 
 - FSAE Track  
 [Formula Student UK 2020 - Sprint](https://www.racedepartment.com/downloads/formula-student-uk-2020-sprint.34588/)  
