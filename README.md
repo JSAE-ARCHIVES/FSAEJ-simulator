@@ -1,5 +1,5 @@
 # FSAEJ-simulator
-Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです。パッケージにはICV車両(NK16_ICV)とエンデュランスコース(FSAEJ_Endurance)が含まれています。また、InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です。  
+Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです。パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)が含まれています。また、InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です。  
 
 
 ![Screenshot_nk16_icv_fsaej_endurance_26-2-121-15-5-39](https://user-images.githubusercontent.com/81402033/112589646-d1942780-8e44-11eb-8bea-9b0e71ca5ab1.jpg)
@@ -80,7 +80,8 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 ![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
 
 
-___
+__
+# 備考 -Notes- 
 本MODの利用・改造等は自由にしていただいて構いません．  
 
 FSAE関連のMODを以下にまとめました．動作は確認していません． 
