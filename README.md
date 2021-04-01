@@ -79,8 +79,8 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 
 
 # クレジット
-作成；[自動車技術会](https://www.jsae.or.jp/)
-協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)
+作成：[自動車技術会](https://www.jsae.or.jp/)   
+協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
 不具合等はこちらにご連絡ください．jsae.sim.pj@gmail.com
 
 
