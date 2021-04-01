@@ -35,7 +35,6 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 ### 3. MODデータのダウンロード
-___
 1. download all files from releases.  
 2. place `NK16_ICV`file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
