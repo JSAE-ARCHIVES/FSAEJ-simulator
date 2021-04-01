@@ -79,11 +79,6 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 
 
 ___
-作成：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)   
-協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
-不具合等連絡先：jsae.sim.pj@gmail.com
-
- 
 本MODの利用・改造等は自由にしてもらって構いません．  
 
 FSAE関連のMODを以下にまとめました．動作は確認していません． 
@@ -104,6 +99,11 @@ FSAE関連のMODを以下にまとめました．動作は確認していませ�
 [AC GPK Spa](https://www.racedepartment.com/downloads/ac-gpk-spa.39627/)  
 [AC GPK Bahrain](https://www.racedepartment.com/downloads/ac-gpk-bahrain.40201/)  
 
+___
+作成：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)   
+協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
+不具合等連絡先：jsae.sim.pj@gmail.com
+___
 
 
 
