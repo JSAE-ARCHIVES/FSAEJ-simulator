@@ -9,7 +9,7 @@ TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo U
 ![preview](https://user-images.githubusercontent.com/81402033/112591112-33ee2780-8e47-11eb-951c-396fc2bc2778.jpg)
 
 # インストール方法 -Installation-
-### 1.準備 -Preparation-
+### 準備 -Preparation-
   
 ##### 必須 -Required-
 - [Steam](https://store.steampowered.com/about/)
@@ -20,7 +20,9 @@ TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo U
 ##### オプション -Option-
 - InvalidateLap app (Download from this Github)
   
-### 2.手順 -Instruction-
+### 手順 -Instruction-
+#### 1.Content Managerのインストール  
+上記のリンクからアクセスし，Latest.zipを解凍し，Content Manager.exeを実行する．
 1. download all files from releases.  
 2. place "NK16_ICV" file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
