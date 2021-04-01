@@ -27,7 +27,7 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 <img src="https://user-images.githubusercontent.com/81402033/113232605-75b01f80-92d8-11eb-8815-62db18d7b553.png" width="800px">
 
 ダウンロードされた`Latest.zip`を解凍すると，`latest`フォルダーの中に`Content Manager.exe`と`ReadMe.txt`が作成される．  
-`Content Manager.exe`をダブルクリックすると，コンテンツマネージャーが起動する．  
+`Content Manager.exe`をダブルクリックすると，Content Managerが起動する．  
 
 **[注意]  
 MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**
