@@ -74,12 +74,14 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 ![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
 
 レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．
+**[注意]  
+連続でパイロンを踏んだ時などはカウントできていないことがあります．**
 
 ![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
 
 
 ___
-本MODの利用・改造等は自由にしてもらって構いません．  
+本MODの利用・改造等は自由にしていただいて構いません．  
 
 FSAE関連のMODを以下にまとめました．動作は確認していません． 
 
