@@ -37,8 +37,17 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 
 ### 3. MODデータの導入
 [GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)からCode→Download Zipで`FSAEJ-simulator-main.zip`をダウンロードする．download all files from releases.  
+
 ![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)  
 ダウンロードされた`FSAEJ-simulator-main.zip`を解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．
+![image](https://user-images.githubusercontent.com/81402033/113248136-5379ca00-92f7-11eb-8705-8d4c5ecc4e8f.png)  
+
+- コースMODの導入
+
+- 車両MODの導入
+- パイロンタッチカウントの導入
+
+
 2. place `NK16_ICV`file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
 3.place `FSAEJ_Endurance` file in tracks folder.  
