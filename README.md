@@ -43,21 +43,21 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 ![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
 
 
-- コースMODの導入  
+**- コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249515-c84e0380-92f9-11eb-927b-15e82886d767.png)
 
-- 車両MODの導入  
+**- 車両MODの導入**  
 `NK16_ICV`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249459-ace2f880-92f9-11eb-964e-485ecc65d8b8.png)
 
-- パイロンタッチカウントの導入  
+**- パイロンタッチカウントの導入**  
 `InvalidateLap`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
 に配置する． 
