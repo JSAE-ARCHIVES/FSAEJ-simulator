@@ -35,10 +35,10 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
-### 3. MODデータのダウンロード
-GitHubから`NK16_ICV` と`FSAEJ_Endurance`をダウンロードする．download all files from releases.  
-
-![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)
+### 3. MODデータの導入
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)からCode→Download Zipで`FSAEJ-simulator-main.zip`をダウンロードする．download all files from releases.  
+![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)  
+ダウンロードされた`FSAEJ-simulator-main.zip`を解凍すると，`FSAEJ_Endurance``NK16_ICV``InvalidateLap`フォルダが作成される．
 2. place `NK16_ICV`file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
 3.place `FSAEJ_Endurance` file in tracks folder.  
