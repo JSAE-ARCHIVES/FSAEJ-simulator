@@ -37,11 +37,12 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 
 ### 3. MODデータのダウンロード
 GitHubから`NK16_ICV` と`FSAEJ_Endurance`をダウンロードする．download all files from releases.  
+
+![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)
 2. place `NK16_ICV`file in cars folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
 3.place `FSAEJ_Endurance` file in tracks folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks  
 
-![image](https://user-images.githubusercontent.com/81402033/113243296-b6fefa00-92ed-11eb-98ef-377da1e04748.png)
 
 
