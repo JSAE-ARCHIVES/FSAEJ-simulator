@@ -22,7 +22,8 @@ TUAT Formula NK16 is the 2020 Formula student car designed by student at Tokyo U
 ___
 ## 手順 -Instruction-
 ### 1. Assetto Corsaのダウンロード
-省略
+   
+---
 ### 2. Content Managerのダウンロード 
  [Content Manager](https://assettocorsa.club/content-manager.html)のサイトを開き，下へスクロールすると「Download Lite Version:」の項目が出てくる．  
 Download directlyをクリック．（Download from Google DriveでもOK）
