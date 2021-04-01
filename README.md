@@ -80,7 +80,7 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 ![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
 
 
-
+___
 # 備考 -Notes- 
 本MODの利用・改造等は自由にしていただいて構いません．  
 
