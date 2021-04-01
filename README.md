@@ -54,6 +54,7 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 `NK16_ICV`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars`
 に配置する．  
+
 ![image](https://user-images.githubusercontent.com/81402033/113249459-ace2f880-92f9-11eb-964e-485ecc65d8b8.png)
 
 
