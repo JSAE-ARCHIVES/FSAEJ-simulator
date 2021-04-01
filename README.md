@@ -65,6 +65,7 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 に配置する． 
 
 ![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)
+
 Content Managerを起動し，Settings→Custom Shaders Patchへ移動．  
 Yes, please をクリックし，Custom Shaders Patchをオンにする．  
 
@@ -74,7 +75,20 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 
 ![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
 
+レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．
 
+![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)
+
+# 補足情報
+- FSAE Car MOD
+[Formula Student UCM 2016](https://www.racedepartment.com/downloads/formula-student-ucm-2016.19272/) - EV車両
+
+[MAD Formula Team MFTC3](https://www.racedepartment.com/downloads/mad-formula-team-mftc3.36690/) - ICV車両
+
+- Mini Circuit for FSAE and Kart
+[AC GPK Albert Park](https://www.racedepartment.com/downloads/ac-gpk-albert-park.39655/)  
+[AC GPK Barcelona](https://www.racedepartment.com/downloads/ac-gpk-barcelona.39628/)  
+[AC GPK Spa](https://www.racedepartment.com/downloads/ac-gpk-spa.39627/)  
 
 
 
