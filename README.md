@@ -90,7 +90,7 @@ GENERAL PATCH SETTINGS以外の項目のActiveのチェックボックス外し�
 [FSAE: Netball Court Autocross](https://www.racedepartment.com/downloads/fsae-netball-court-autocross.17593/)  
 [FSAE: Michigan - AutoX '18](https://www.racedepartment.com/downloads/fsae-michigan-autox-18-beta.21013/)  
 
-- Mini Circuit
+- Mini Circuit  
 [AC GPK Albert Park](https://www.racedepartment.com/downloads/ac-gpk-albert-park.39655/)  
 [AC GPK Barcelona](https://www.racedepartment.com/downloads/ac-gpk-barcelona.39628/)   
 [AC GPK Spa](https://www.racedepartment.com/downloads/ac-gpk-spa.39627/)  
