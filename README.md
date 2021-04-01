@@ -39,7 +39,9 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 [GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)からCode→Download Zipで`FSAEJ-simulator-main.zip`をダウンロードする．download all files from releases.  
 
 ![image](https://user-images.githubusercontent.com/81402033/113244556-32fa4180-92f0-11eb-8dc5-1605ab9e4ab2.png)  
-ダウンロードされた`FSAEJ-simulator-main.zip`を解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．
+
+ダウンロードされた`FSAEJ-simulator-main.zip`を解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．  
+
 ![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
 
 
@@ -57,15 +59,14 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 
 ![image](https://user-images.githubusercontent.com/81402033/113249459-ace2f880-92f9-11eb-964e-485ecc65d8b8.png)
 
-
-
 - パイロンタッチカウントの導入  
+`InvalidateLap`フォルダを
+`C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
+に配置する． 
+![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)
 
 
 
-2. place `NK16_ICV`file in cars folder.  
-C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars  
-3.place `FSAEJ_Endurance` file in tracks folder.  
   
 
 
