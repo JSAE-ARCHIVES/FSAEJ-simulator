@@ -42,7 +42,6 @@ C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars
 3.place `FSAEJ_Endurance` file in tracks folder.  
 C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks  
 
-
-![image](https://user-images.githubusercontent.com/81402033/113243211-8c14a600-92ed-11eb-9688-f536c583d297.png)
+![image](https://user-images.githubusercontent.com/81402033/113243296-b6fefa00-92ed-11eb-98ef-377da1e04748.png)
 
 
