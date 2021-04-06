@@ -61,8 +61,6 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 
 ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．  
 
-![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
-
 
 **●コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
