@@ -92,7 +92,7 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 `GENERAL PATCH SETTINGS` `TASKBAR` 以外の項目のActiveのチェックボックス外し，オフにする．  
 ![image](https://user-images.githubusercontent.com/81402033/113673552-1ac16280-96f4-11eb-90d4-77c28f5b1ea8.png)
 
-**[注意]
+**[注意]  
 上記が最小構成の推奨設定です．  
 その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください．   
 WEATHER FX をActiveにすると色がおかしくなります．**   
@@ -100,12 +100,13 @@ WEATHER FX をActiveにすると色がおかしくなります．**
 
 
 レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．  
-**[注意]  
-連続でパイロンを踏んだ時などはカウントできていないことがあります．
-パイロンに当たると正式なラップとして記録が残りません．**
+
 
 ![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
 
+**[注意]  
+連続でパイロンを踏んだ時などはカウントできていないことがあります．  
+パイロンに当たると正式なラップとして記録が残りません．**
 
 ___
 # 備考 -Notes- 
