@@ -90,6 +90,7 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 
 `GENERAL PATCH SETTINGS` `TASKBAR` 以外の項目のActiveのチェックボックス外し，オフにする．  
+
 ![image](https://user-images.githubusercontent.com/81402033/113673552-1ac16280-96f4-11eb-90d4-77c28f5b1ea8.png)
 
 **[注意]  
@@ -98,17 +99,21 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 WEATHER FX をActiveにすると色がおかしくなります．**   
 
 
+  
+レーススタート後，右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．   
 
-レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．   
+![image](https://user-images.githubusercontent.com/81402033/113674874-ab4c7280-96f5-11eb-9fb6-ab581a39c512.png)  
 
-![image](https://user-images.githubusercontent.com/81402033/113674697-6de7e500-96f5-11eb-9c7b-109d8ff54528.png)
-
- 
 
 **[注意]  
 連続でパイロンを踏んだ時などはカウントできていないことがあります．  
 パイロンに当たると正式なラップとして記録が残りません．**
 
+##レース設定 -Race settings-　　
+![image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
+
+**[参考]**  
+Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
 ___
 # 備考 -Notes- 
 本MODの利用・改造等は自由にしていただいて構いません．  
