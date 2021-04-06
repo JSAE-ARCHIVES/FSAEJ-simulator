@@ -30,6 +30,7 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 
 ダウンロードされた`Latest.zip`を解凍すると，`latest`フォルダーの中に`Content Manager.exe`と`ReadMe.txt`が作成される．  
 `Content Manager.exe`をダブルクリックすると，Content Managerが起動する．  
+
 **[参考]  
 Content Managerを起動する際に下のようなメッセージが表示される場合がありますが問題はありませんので、詳細情報→実行をクリックしてください**
 ![image](https://user-images.githubusercontent.com/81402033/113668660-8bb14c00-96ed-11eb-8bd5-74f0083bc422.png)
