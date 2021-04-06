@@ -35,14 +35,15 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
-[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseにある`FSAEJ_Endurance.zip` `NK16_ICV.zip` `NK16_ICV.zip`をダウンロードする． 
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest release松のついている最新バージョンの`FSAEJ_Endurance.zip` `NK16_ICV.zip` `NK16_ICV.zip`をダウンロードする． 
 
 ![スクリーンショット 2021-04-06 145032](https://user-images.githubusercontent.com/81402033/113665264-260e9100-96e8-11eb-9a58-223cb778cb03.png)
-![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666046-8a7e2000-96e9-11eb-9e71-5269420c69ac.png)
+![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666815-d087b380-96ea-11eb-8302-8df6e366b239.png)
+
 
  
 
-ダウンロードされたZipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` `NK16_ICV`フォルダが作成される．  
+ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` `NK16_ICV`フォルダが作成される．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
 
