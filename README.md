@@ -4,7 +4,8 @@ Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです�
 
 ![Screenshot_nk16_icv_fsaej_endurance_26-2-121-15-5-39](https://user-images.githubusercontent.com/81402033/112589646-d1942780-8e44-11eb-8bea-9b0e71ca5ab1.jpg)
 
-![preview](https://user-images.githubusercontent.com/81402033/112591112-33ee2780-8e47-11eb-951c-396fc2bc2778.jpg)
+![preview](https://user-images.githubusercontent.com/81402033/113680521-e5207780-96fb-11eb-9a53-3833d491932a.jpg)
+
 ![preview](https://user-images.githubusercontent.com/81402033/113679890-37ad6400-96fb-11eb-8933-e5179666616e.jpg)
 
 
