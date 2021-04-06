@@ -99,10 +99,11 @@ WEATHER FX をActiveにすると色がおかしくなります．**
 
 
 
-レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．  
+レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．   
 
+![image](https://user-images.githubusercontent.com/81402033/113674697-6de7e500-96f5-11eb-9c7b-109d8ff54528.png)
 
-![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
+ 
 
 **[注意]  
 連続でパイロンを踏んだ時などはカウントできていないことがあります．  
