@@ -35,7 +35,7 @@ MODを使用したいときはAssetto CorsaのアプリからではなくContent
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
-[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseにある`FSAEJ_Endurance.zip` `NK16_ICV.zip` `NK16_ICV.zip`をダウンロードする．download all files from releases.  
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseにある`FSAEJ_Endurance.zip` `NK16_ICV.zip` `NK16_ICV.zip`をダウンロードする． 
 
 ![スクリーンショット 2021-04-06 145032](https://user-images.githubusercontent.com/81402033/113665264-260e9100-96e8-11eb-9a58-223cb778cb03.png)
 ![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666046-8a7e2000-96e9-11eb-9e71-5269420c69ac.png)
