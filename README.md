@@ -49,7 +49,8 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 ![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666815-d087b380-96ea-11eb-8302-8df6e366b239.png)
 
 **[備考]  
-`InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．**
+`InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．**　　
+
 ![image](https://user-images.githubusercontent.com/81402033/113667179-5dcb0800-96eb-11eb-822d-99ac72b3d667.png)
  
 
@@ -58,21 +59,21 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 ![image](https://user-images.githubusercontent.com/81402033/113249012-f8e16d80-92f8-11eb-9be0-a269dee9ca43.png)
 
 
-**・コースMODの導入**   
+**●コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249515-c84e0380-92f9-11eb-927b-15e82886d767.png)
 
-**・車両MODの導入**  
+**●車両MODの導入**  
 `NK16_ICV`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249459-ace2f880-92f9-11eb-964e-485ecc65d8b8.png)
 
-**・パイロンタッチカウントの導入**  
+**●パイロンタッチカウントの導入**  
 `InvalidateLap`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
 に配置する． 
@@ -88,11 +89,12 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 ![image](https://user-images.githubusercontent.com/81402033/113259074-aeb3b880-9307-11eb-8357-76f1c20c3893.png)
 
-`GENERAL PATCH SETTINGS` `TASKBAR` 以外の項目のActiveのチェックボックス外し，オフにする．　
+`GENERAL PATCH SETTINGS` `TASKBAR` 以外の項目のActiveのチェックボックス外し，オフにする．  
+
 **[備考]
-上記が最小構成の推奨設定です．
-その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください。
-WEATHER FX をActiveにすると色がおかしくなります。
+上記が最小構成の推奨設定です．  
+その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください。  
+WEATHER FX をActiveにすると色がおかしくなります。  
 
 
 ![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
