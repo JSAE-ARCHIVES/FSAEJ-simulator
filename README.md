@@ -109,7 +109,8 @@ WEATHER FX をActiveにすると色がおかしくなります．**
 連続でパイロンを踏んだ時などはカウントできていないことがあります．  
 パイロンに当たると正式なラップとして記録が残りません．**
 
-##レース設定 -Race settings-　　
+___
+## レース設定 -Race settings-　 　
 ![image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
 
 **[参考]**  
