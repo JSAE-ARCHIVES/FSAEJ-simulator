@@ -1,4 +1,0 @@
-Dummy.kn5 filter=lfs diff=lfs merge=lfs -text
-Ecopa.kn5 filter=lfs diff=lfs merge=lfs -text
-FSAEJ_Endurance.kn5 filter=lfs diff=lfs merge=lfs -text
-Physics.kn5 filter=lfs diff=lfs merge=lfs -text
