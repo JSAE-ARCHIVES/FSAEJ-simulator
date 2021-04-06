@@ -30,7 +30,7 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 
 ダウンロードされた`Latest.zip`を解凍すると，`latest`フォルダーの中に`Content Manager.exe`と`ReadMe.txt`が作成される．  
 `Content Manager.exe`をダブルクリックすると，Content Managerが起動する．  
-**[備考]  
+**[参考]  
 Content Managerを起動する際に下のようなメッセージが表示される場合がありますが問題はありませんので、詳細情報→実行をクリックしてください**
 ![image](https://user-images.githubusercontent.com/81402033/113668660-8bb14c00-96ed-11eb-8bd5-74f0083bc422.png)
 
@@ -48,7 +48,7 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 ![スクリーンショット 2021-04-06 145032](https://user-images.githubusercontent.com/81402033/113665264-260e9100-96e8-11eb-9a58-223cb778cb03.png)
 ![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666815-d087b380-96ea-11eb-8302-8df6e366b239.png)
 
-**[備考]  
+**[参考]  
 `InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．**　　
 
 ![image](https://user-images.githubusercontent.com/81402033/113667179-5dcb0800-96eb-11eb-822d-99ac72b3d667.png)
@@ -78,7 +78,8 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
 に配置する． 
 
-![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)
+![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)  
+
 Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
 Invalidate Lapのチェックボックスをにチェックを入れる． 
 
@@ -87,21 +88,21 @@ Invalidate Lapのチェックボックスをにチェックを入れる．
 Settings→Custom Shaders Patchへ移動．  
 Yes, please をクリックし，Custom Shaders Patchをオンにする．  
 
-![image](https://user-images.githubusercontent.com/81402033/113259074-aeb3b880-9307-11eb-8357-76f1c20c3893.png)
 
 `GENERAL PATCH SETTINGS` `TASKBAR` 以外の項目のActiveのチェックボックス外し，オフにする．  
+![image](https://user-images.githubusercontent.com/81402033/113673552-1ac16280-96f4-11eb-90d4-77c28f5b1ea8.png)
 
-**[備考]
+**[注意]
 上記が最小構成の推奨設定です．  
-その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください。  
-WEATHER FX をActiveにすると色がおかしくなります。  
+その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください．   
+WEATHER FX をActiveにすると色がおかしくなります．**   
 
 
-![image](https://user-images.githubusercontent.com/81402033/113260370-27674480-9309-11eb-87de-b7fd7787ca3f.png)
 
 レーススタート後右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．  
 **[注意]  
-連続でパイロンを踏んだ時などはカウントできていないことがあります．**
+連続でパイロンを踏んだ時などはカウントできていないことがあります．
+パイロンに当たると正式なラップとして記録が残りません．**
 
 ![image](https://user-images.githubusercontent.com/81402033/113261374-5a5e0800-930a-11eb-9c3d-c92919dabb69.png)  
 
