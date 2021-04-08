@@ -97,8 +97,8 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 ![image](https://user-images.githubusercontent.com/81402033/113673552-1ac16280-96f4-11eb-90d4-77c28f5b1ea8.png)
 
-**[注意]  **
- - **上記が最小構成の推奨設定です．その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください． **  
+**[注意]**    
+ - **上記が最小構成の推奨設定です．その他のCUSTOM SHADERS PATCHの設定に関しては各自で調べて追加してください．**    
  - **WEATHER FX をActiveにすると色がおかしくなります．**   
 
 
@@ -108,9 +108,9 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 ![image](https://user-images.githubusercontent.com/81402033/113674874-ab4c7280-96f5-11eb-9fb6-ab581a39c512.png)  
 
 
-**[注意]**  
- - **連続でパイロンを踏んだ時,高速でパイロンを踏んだ時などはカウントできていないことがあります．あくまで目安として使用して下さい．  **
- - **カウント機能とは別に，FFB付きのハンコンを使用している場合，パイロンを踏んだ時に小さなフィードバックがくるように設定しています．カウントと併せてパイロンタッチの参考にしてください．  **
+**[注意]**    
+ - **連続でパイロンを踏んだ時,高速でパイロンを踏んだ時などはカウントできていないことがあります．あくまで目安として使用して下さい．**    
+ - **カウント機能とは別に，FFB付きのハンコンを使用している場合，パイロンを踏んだ時に小さなフィードバックがくるように設定しています．カウントと併せてパイロンタッチの参考にしてください．**   
 
 ___
 ## レース設定 -Race settings-　 　
@@ -119,11 +119,11 @@ ___
 [参考]  
 Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
     
-**[注意]  
-MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．
-Assetto Corsaの初回セットアップを済ませないとContent Managerは正常に動作しません．
-レースモードはPRACTICE，HOTLAPのみ使用できます．TIME ATTACK等のモードを選択するとエラーが発生します．  
-PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
+**[注意]**    
+ - **MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**  
+ - **Assetto Corsaの初回セットアップを済ませないとContent Managerは正常に動作しません．**
+ - **レースモードはPRACTICE，HOTLAPのみ使用できます．TIME ATTACK等のモードを選択するとエラーが発生します．**  
+ - **PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
 
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
 
