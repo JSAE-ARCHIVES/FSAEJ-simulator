@@ -35,8 +35,8 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 ダウンロードされた`Latest.zip`を解凍すると，`latest`フォルダーの中に`Content Manager.exe`と`ReadMe.txt`が作成される．  
 `Content Manager.exe`をダブルクリックすると，Content Managerが起動する．  
 
-**[参考]  
-Content Managerを起動する際に下のようなメッセージが表示される場合がありますが問題はありませんので、詳細情報→実行をクリックしてください**
+[参考]  
+Content Managerを起動する際に下のようなメッセージが表示される場合がありますが問題はありませんので、詳細情報→実行をクリックしてください
 ![image](https://user-images.githubusercontent.com/81402033/113668660-8bb14c00-96ed-11eb-8bd5-74f0083bc422.png)
 
 **[注意]  
@@ -53,8 +53,8 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 ![スクリーンショット 2021-04-06 145032](https://user-images.githubusercontent.com/81402033/113665264-260e9100-96e8-11eb-9a58-223cb778cb03.png)
 ![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666815-d087b380-96ea-11eb-8302-8df6e366b239.png)
 
-**[参考]  
-`InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．**　　
+[参考]  
+`InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113667179-5dcb0800-96eb-11eb-822d-99ac72b3d667.png)
  
@@ -62,7 +62,7 @@ Assetto Corsaの初回セットアップを済ませないとContent Managerは�
 ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．
 
 **[注意]
-Zipの解凍方法によっては解凍して作成されたフォルダの下層にもう一つフォルダが作成されている場合があります．その場合は下層のフォルダを使用して下さい．  
+Zipの解凍方法によっては解凍して作成されたフォルダの下層にもう一つフォルダが作成されている場合があります．その場合は下層のフォルダを使用して下さい．**  
 
 
 
@@ -120,12 +120,12 @@ ___
 ## レース設定 -Race settings-　 　
 ![image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
 
-**[参考]**  
+[参考]  
 Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
 
-**[注意]**  
+**[注意]    
 レースモードはPRACTICE，HOTLAPのみ使用できます．TIME ATTACK等のモードを選択するとエラーが発生します．  
-PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．    
+PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です． **
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
 
 
