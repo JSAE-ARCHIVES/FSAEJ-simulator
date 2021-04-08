@@ -38,10 +38,7 @@ Download directlyをクリック．（Download from Google DriveでもOK）
 [参考]  
 Content Managerを起動する際に下のようなメッセージが表示される場合がありますが問題はありませんので、詳細情報→実行をクリックしてください
 ![image](https://user-images.githubusercontent.com/81402033/113668660-8bb14c00-96ed-11eb-8bd5-74f0083bc422.png)
-
-**[注意]  
-MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．
-Assetto Corsaの初回セットアップを済ませないとContent Managerは正常に動作しません．**  
+ 
 
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
@@ -122,10 +119,13 @@ ___
 
 [参考]  
 Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
-
-**[注意]    
+    
+**[注意]  
+MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．
+Assetto Corsaの初回セットアップを済ませないとContent Managerは正常に動作しません．
 レースモードはPRACTICE，HOTLAPのみ使用できます．TIME ATTACK等のモードを選択するとエラーが発生します．  
-PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です． **
+PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
+
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
 
 
