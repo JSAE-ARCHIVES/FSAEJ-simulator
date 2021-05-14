@@ -155,7 +155,8 @@ FSAE関連のMODを以下にまとめました．動作は確認していませ�
 [AC GPK Bahrain](https://www.racedepartment.com/downloads/ac-gpk-bahrain.40201/)  
 
 ___
-作成：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)　本同直人　村松滉平　柚木　希  
+管理：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)  
+開発：本同直人　村松滉平　柚木　希  
 協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
 不具合等連絡先：jsae.sim.pj@gmail.com
 ___
