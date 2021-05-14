@@ -131,8 +131,10 @@ Tyre blanketsの横の3点マークをクリックすると，オートシフト
 
 
 ___
-# 備考 -Notes- 
-本MODの利用・改造等は自由にしていただいて構いません．  
+# 備考 -Notes-   
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+
+ただし、本MODの利用・改造等は自由にしていただいて構いません． 
 
 FSAE関連のMODを以下にまとめました．動作は確認していません． 
 
@@ -158,7 +160,6 @@ ___
 不具合等連絡先：jsae.sim.pj@gmail.com
 ___
 
-![image](https://user-images.githubusercontent.com/81402033/118259478-29b5e480-b4ec-11eb-8a17-28e78c73c155.png)
 
 
 
