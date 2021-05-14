@@ -158,6 +158,7 @@ ___
 不具合等連絡先：jsae.sim.pj@gmail.com
 ___
 
+![image](https://user-images.githubusercontent.com/81402033/118259478-29b5e480-b4ec-11eb-8a17-28e78c73c155.png)
 
 
 
