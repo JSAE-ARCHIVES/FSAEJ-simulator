@@ -22,7 +22,7 @@ Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです�
 - NK16_ICV (Download from this Github)
 - FSAEJ_Endurance (Download from this Github)
 ##### オプション -Option-
-- InvalidateLap app (Download from this Github)
+- [InvalidateLap app](https://assettocorsamods.net/resources/invalidatelap.192/)(assettocorsamods.netのアカウント登録が必要です)  
 ___
 ## 手順 -Instruction-
 ### 1. Assetto Corsaのダウンロード
@@ -45,42 +45,52 @@ Content Managerを起動する際に下のようなメッセージが表示さ�
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
-[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `NK16_ICV.zip` `InvalidateLap.zip`をダウンロードする． 
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `NK16_ICV.zip`をダウンロードする． 
 
 
+![スクリーンショット 2021-05-15 133005](https://user-images.githubusercontent.com/81402033/118347978-12293b00-b582-11eb-8bd1-73e380af0dbb.png)
+![スクリーンショット 2021-05-15 130947](https://user-images.githubusercontent.com/81402033/118347981-16555880-b582-11eb-9019-8dad97d062ac.png)
 
-![スクリーンショット 2021-04-06 145032](https://user-images.githubusercontent.com/81402033/113665264-260e9100-96e8-11eb-9a58-223cb778cb03.png)
-![スクリーンショット 2021-04-06 150136](https://user-images.githubusercontent.com/81402033/113666815-d087b380-96ea-11eb-8302-8df6e366b239.png)
-
-[参考]  
-`InvalidateLap.zip`をダウンロードする際に下のようなメッセージが表示される場合がありますが危害を及ぼすことはありませんので，継続をクリックしてください．  
-
-![image](https://user-images.githubusercontent.com/81402033/113667179-5dcb0800-96eb-11eb-822d-99ac72b3d667.png)
- 
-
-ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` `InvalidateLap`フォルダが作成される．
+ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `NK16_ICV` フォルダが作成される．
 
 **[注意]**    
  - **Zipの解凍方法によっては解凍して作成されたフォルダの下層にもう一つフォルダが作成されている場合があります．その場合は下層のフォルダを使用して下さい．**  
 
 
 
-**●コースMODの導入**   
+#### **●コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249515-c84e0380-92f9-11eb-927b-15e82886d767.png)
 
-**●車両MODの導入**  
+#### **●車両MODの導入**  
 `NK16_ICV`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\cars`
 に配置する．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249459-ace2f880-92f9-11eb-964e-485ecc65d8b8.png)
 
-**●パイロンタッチカウントの導入**  
-`InvalidateLap`フォルダを
+#### **●パイロンタッチカウントの導入**   
+
+ [Assetto Corsa Mods](https://assettocorsamods.net/)へアクセスし Sign up now! からアカウントの登録をする． 
+ 
+ ![image](https://user-images.githubusercontent.com/81402033/118346980-9d063780-b57a-11eb-96f6-90c61cc283bb.png)  
+
+ ![スクリーンショット 2021-05-15 123253](https://user-images.githubusercontent.com/81402033/118346934-426cdb80-b57a-11eb-9b45-009586ec5a5c.png)  
+ 
+ 登録後，[InvalidateLap app](https://assettocorsamods.net/resources/invalidatelap.192/)から，`invalidatelap.zip` をダウンロードする．  
+ 
+![image](https://user-images.githubusercontent.com/81402033/118346677-2d8f4880-b578-11eb-9152-1b019ebc4db1.png)
+
+[注意]
+ログイン状態でないと Download Not Available となってしまうのでログインしてください．
+![image](https://user-images.githubusercontent.com/81402033/118347026-fd957480-b57a-11eb-8b19-7414a0b83567.png)
+
+
+
+zipファイルの解凍後`InvalidateLap`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\apps\python`
 に配置する． 
 
@@ -90,6 +100,11 @@ Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
 Invalidate Lapのチェックボックスをにチェックを入れる． 
 
 ![image](https://user-images.githubusercontent.com/81402033/113671806-d1701380-96f1-11eb-8668-265e68f49424.png)
+
+Settings→APPSへ移動．  
+Allows tyres outを`0`に設定する．  
+
+![image](https://user-images.githubusercontent.com/81402033/118347227-895bd080-b57c-11eb-8c8d-3845c26ded6f.png)
 
 Settings→Custom Shaders Patchへ移動．  
 Yes, please をクリックし，Custom Shaders Patchをオンにする．  
@@ -107,7 +122,8 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
   
 レーススタート後，右側のタブからInvalidateLapをオンにすると，パイロンタッチがカウントされるようになる．   
 
-![image](https://user-images.githubusercontent.com/81402033/113674874-ab4c7280-96f5-11eb-9fb6-ab581a39c512.png)  
+![image](https://user-images.githubusercontent.com/81402033/118347422-3d119000-b57e-11eb-9b69-3449e9e10126.png)
+
 
 
 **[注意]**    
@@ -132,9 +148,9 @@ Tyre blanketsの横の3点マークをクリックすると，オートシフト
 
 ___
 # 備考 -Notes-   
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>の下に提供されています．
 
-ただし、本MODの利用・改造等は自由にしていただいて構いません． 
+ただし，本MODの利用・改造等は自由にしていただいて構いません． 
 
 FSAE関連のMODを以下にまとめました．動作は確認していません． 
 
