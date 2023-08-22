@@ -1,5 +1,5 @@
 # FSAEJ-simulator
-Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance),アクセラレーションコース(FSAEJ_Acceleration)，スキッドパッドコース(FSAEJ_Skidpad)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です.  さらに，MultiLaps appを用いることでスキッドパッドのラップタイム計測が可能です．
+Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)，アクセラレーションコース(FSAEJ_Acceleration)，スキッドパッドコース(FSAEJ_Skidpad)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です.  さらに，MultiLaps appを用いることでスキッドパッドのラップタイム計測が可能です．
 
 
 ![Screenshot_nk16_icv_fsaej_endurance_26-2-121-15-5-39](https://user-images.githubusercontent.com/81402033/112589646-d1942780-8e44-11eb-8bea-9b0e71ca5ab1.jpg)
