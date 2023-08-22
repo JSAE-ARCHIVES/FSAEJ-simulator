@@ -145,13 +145,13 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 [注意]
 ログイン状態でないと Login or Register an account to download this content となってしまうのでログインしてください．
 
-![m4](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/732c2dbb-963b-424e-bf44-6732b5b3128d)
+![m4](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/a0fa3610-4934-467f-a2de-bb16dc7fd88e)
 
 zipファイルの解凍後`content` `apps`の両フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`
 に配置する． 
 
-![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)  
+![m5](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/a3e44b1d-0976-4217-b940-3b7af2a05e43)
 
 Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
 Multi Lapsのチェックボックスをにチェックを入れる． 
