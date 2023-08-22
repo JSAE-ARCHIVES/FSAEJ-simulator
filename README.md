@@ -2,7 +2,7 @@
 Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)，2022年度アクセラレーション・スキッドパッドコース(FSAEJ_Acceleration，FSAEJ_Skidpad)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です.  さらに，MultiLaps appを用いることでスキッドパッドのラップタイム計測が可能です．
 
 
-![Screenshot_nk16_icv_ver2 0_fsaej_endurance_22-7-123-22-0-54](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/016a9808-05c8-4313-a768-87ead6a1718b)
+![Screenshot_nk16_icv_ver2 0_fsaej_endurance_22-7-123-22-0-54](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/2961e4ba-a639-463a-a3aa-6c805a93fad3)
 
 ![名称未設定 1](https://user-images.githubusercontent.com/81402033/118453621-6410c300-b732-11eb-8ae5-e6731c23b377.png)
 
