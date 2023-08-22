@@ -22,7 +22,8 @@ Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです�
 - FSAEJ_Acceleration (Download from this Github)
 - FSAEJ_Skidpad (Download from this Github)
 ##### オプション -Option-
-- [InvalidateLap app](https://assettocorsamods.net/resources/invalidatelap.192/)(assettocorsamods.netのアカウント登録が必要です)  
+- [InvalidateLap app](https://assettocorsamods.net/resources/invalidatelap.192/)(assettocorsamods.netのアカウント登録が必要です)
+- [MultiLaps app](https://www.racedepartment.com/downloads/multilaps.4997/)(Racedepartmentのアカウント登録が必要です)
 ___
 ## 手順 -Instruction-
 ### 1. Assetto Corsaのダウンロード
