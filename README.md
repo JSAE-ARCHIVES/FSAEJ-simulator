@@ -156,8 +156,7 @@ zipファイルの解凍後`content` `apps`の両フォルダを
 Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
 Multi Lapsのチェックボックスをにチェックを入れる． 
 
-![image](https://user-images.githubusercontent.com/81402033/113671806-d1701380-96f1-11eb-8668-265e68f49424.png)
-
+![m6](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/8e2abf26-ba4f-46de-a91d-4c702fcc2ba2)
 
 ___
 ## レース設定 -Race settings-　 　
