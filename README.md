@@ -143,11 +143,11 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
  
 ![m3](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/43863c63-0f75-41e1-a98f-cff753e5f6d8)
 
-![m4](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/a0fa3610-4934-467f-a2de-bb16dc7fd88e)
-
 [注意]
  - ログイン状態でないと Login or Register an account to download this content となってしまうのでログインしてください．
  - rarファイルのため，[7zip](https://7-zip.opensource.jp/)等の解凍ソフトの使用をお勧めします．
+
+![m4](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/a0fa3610-4934-467f-a2de-bb16dc7fd88e)
 
 rarファイルの解凍後`content` `apps`の両フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`
