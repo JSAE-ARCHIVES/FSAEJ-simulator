@@ -134,19 +134,18 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 #### **●ラップタイム計測アプリの導入**
 [RaceDepartment](https://www.racedepartment.com/)へアクセスし LOG IN からアカウントの登録をする． 
  
- ![image](https://user-images.githubusercontent.com/81402033/118346980-9d063780-b57a-11eb-96f6-90c61cc283bb.png)  
+![m1](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/b40bd840-141e-468f-967f-371c98f0fdae)
 
- ![スクリーンショット 2021-05-15 123253](https://user-images.githubusercontent.com/81402033/118346934-426cdb80-b57a-11eb-9b45-009586ec5a5c.png)  
- 
+![m2](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/4cc7b5a5-3769-4865-b448-2df4489ad2f3)
+
  登録後，[MultiLaps app](https://www.racedepartment.com/downloads/multilaps.4997/)から，`MultiLaps_v1.1.zip` をダウンロードする．  
  
-![image](https://user-images.githubusercontent.com/81402033/118346677-2d8f4880-b578-11eb-9152-1b019ebc4db1.png)
+![m3](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/43863c63-0f75-41e1-a98f-cff753e5f6d8)
 
 [注意]
 ログイン状態でないと Login or Register an account to download this content となってしまうのでログインしてください．
-![image](https://user-images.githubusercontent.com/81402033/118347026-fd957480-b57a-11eb-8b19-7414a0b83567.png)
 
-
+![m4](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/732c2dbb-963b-424e-bf44-6732b5b3128d)
 
 zipファイルの解凍後`content` `apps`の両フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`
@@ -155,7 +154,7 @@ zipファイルの解凍後`content` `apps`の両フォルダを
 ![image](https://user-images.githubusercontent.com/81402033/113258290-bcb50980-9306-11eb-8458-bc8723d9c280.png)  
 
 Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
-Multi Laosのチェックボックスをにチェックを入れる． 
+Multi Lapsのチェックボックスをにチェックを入れる． 
 
 ![image](https://user-images.githubusercontent.com/81402033/113671806-d1701380-96f1-11eb-8668-265e68f49424.png)
 
