@@ -46,7 +46,7 @@ Content Managerを起動する際に下のようなメッセージが表示さ�
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
-[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `NK16_ICV.zip`をダウンロードする． 
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `FSAEJ_Acceleration.zip` `FSAEJ_Skidpad.zip` `NK16_ICV.zip`をダウンロードする． 
 
 
 ![スクリーンショット 2021-05-15 133005](https://user-images.githubusercontent.com/81402033/118347978-12293b00-b582-11eb-8bd1-73e380af0dbb.png)
@@ -62,7 +62,7 @@ Content Managerを起動する際に下のようなメッセージが表示さ�
 #### **●コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
-に配置する．  
+に配置する．AccelerationとSkidpadについても同様．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249515-c84e0380-92f9-11eb-927b-15e82886d767.png)
 
