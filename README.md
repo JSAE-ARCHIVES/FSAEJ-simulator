@@ -163,13 +163,14 @@ ___
 ![image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
 
 [参考]  
-Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
+- Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
+- アクセラ・スキッドに関して，PRACTICEのStart from:Pitsを選択するとP0の待機列，Start from:Starting Lineを選択すると競技開始の待機地点からスタートできます．
     
 **[注意]**    
  - **MODを使用したいときはAssetto CorsaのアプリからではなくContent Managerからレースを始める必要があります．**  
  - **Assetto Corsaの初回セットアップを済ませないとContent Managerは正常に動作しません．**
  - **レースモードはPRACTICE，HOTLAPのみ使用できます．TIME ATTACK等のモードを選択するとエラーが発生します．**  
- - **PRACTICEのStart from:Pitsを選択しレースをスタートすると、ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
+ - **PRACTICEのStart from:Pitsを選択しレースをスタートすると，ピットガイが地面に埋まっていますがお使いのパソコンは正常です．**  
 
 ![image](https://user-images.githubusercontent.com/81402033/113975416-70277c00-987a-11eb-995d-6d53a0acfbd4.png)
 
