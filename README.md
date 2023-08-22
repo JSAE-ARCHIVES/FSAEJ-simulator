@@ -161,8 +161,7 @@ Multi Lapsのチェックボックスをにチェックを入れる．
 
 レーススタート後，右側のタブからMultilapsをオンにすると，ラップタイムが消えることなく複数カウントされるようになる．   
 
-![m7](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/17e70553-d722-4c33-95e8-e8bde2c99aa7)
-
+![m7](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/556540f3-67db-4ac4-b354-3a6b6ea59136)
 
 
 ___
