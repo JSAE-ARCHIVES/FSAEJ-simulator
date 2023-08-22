@@ -146,7 +146,7 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 [注意]
  - ログイン状態でないと Login or Register an account to download this content となってしまうのでログインしてください．
- - rarファイルのため，[7zip](https://7-zip.opensource.jp/)等の解凍ソフトの仕様をお勧めします．
+ - rarファイルのため，[7zip](https://7-zip.opensource.jp/)等の解凍ソフトの使用をお勧めします．
 
 rarファイルの解凍後`content` `apps`の両フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa`
