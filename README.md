@@ -138,7 +138,7 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 ![m2](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/4cc7b5a5-3769-4865-b448-2df4489ad2f3)
 
- 登録後，[MultiLaps app](https://www.racedepartment.com/downloads/multilaps.4997/)から，`MultiLaps_v1.1.zip` をダウンロードする．  
+ 登録後，[MultiLaps app](https://www.racedepartment.com/downloads/multilaps.4997/)から，`MultiLaps_v1.1.zip` (2023年8月22日時点)をダウンロードする．  
  
 ![m3](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/43863c63-0f75-41e1-a98f-cff753e5f6d8)
 
