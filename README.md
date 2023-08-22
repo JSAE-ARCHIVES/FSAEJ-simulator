@@ -156,7 +156,8 @@ zipファイルの解凍後`content` `apps`の両フォルダを
 Content Managerを起動し，Settings→ASSETTO CORSA→APPSへ移動．
 Multi Lapsのチェックボックスをにチェックを入れる． 
 
-![m6](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/8e2abf26-ba4f-46de-a91d-4c702fcc2ba2)
+![m6](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/2689a67b-b460-465d-87a8-3f0977a31d6a)
+
 
 レーススタート後，右側のタブからMultilapsをオンにすると，ラップタイムが消えることなく複数カウントされるようになる．   
 
