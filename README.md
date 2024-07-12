@@ -209,7 +209,7 @@ FSAE関連のMODを以下にまとめました．動作は確認していませ�
 
 ___
 管理：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)  
-開発：本同直人　村松滉平　柚木　希 　川端健斗 　吉田壮志　山崎純[image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
+開発：本同直人　村松滉平　柚木　希 　川端健斗 　吉田壮志　山崎純  [image](https://user-images.githubusercontent.com/81402033/113675420-4cd3c400-96f6-11eb-9500-dd7e35049885.png)  
 
 [参考]  
 - Tyre blanketsの横の3点マークをクリックすると，オートシフト，トラクションコントロール，ABS等の設定ができます．
