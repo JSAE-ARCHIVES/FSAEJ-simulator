@@ -251,7 +251,7 @@ FSAE関連のMODを以下にまとめました．動作は確認していませ�
 ___
 管理：[公益社団法人 自動車技術会](https://www.jsae.or.jp/)  
 開発：本同直人　村松滉平　柚木　希 　川端健斗 　吉田壮志　山崎　純  
-協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  
+協力：[東京農工大学 TUAT Formula](http://web.tuat.ac.jp/~fsae/)  [神奈川工科大学 車両運動・制御研究室](https://www.kait.jp/research/navi/yamakado.html)  
 不具合等連絡先：jsae.sim.pj@gmail.com  
 ___
 
