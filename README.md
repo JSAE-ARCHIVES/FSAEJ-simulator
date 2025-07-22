@@ -1,5 +1,5 @@
 # FSAEJ-simulator
-Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)，2022年度アクセラレーション・スキッドパッドコース(FSAEJ_Acceleration，FSAEJ_Skidpad)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です.  さらに，MultiLaps appを用いることでスキッドパッドのラップタイム計測が可能です．
+Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです．パッケージにはTUAT Formula 2020年度車両(NK16_ICV)と2019年度エンデュランスコース(FSAEJ_Endurance)，2022年度アクセラレーション・スキッドパッドコース(FSAEJ_Acceleration，FSAEJ_Skidpad)，2025年度エンデュランスコース(ASE_Endurance)が含まれています．また，InvalidateLap appを用いることでパイロンタッチの回数をカウントすることが可能です(2025/07/22現在エコパのみ対応).  さらに，MultiLaps appを用いることでスキッドパッドのラップタイム計測が可能です．
 
 
 ![Screenshot_nk16_icv_ver2 0_fsaej_endurance_22-7-123-22-0-54](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/assets/81402033/2961e4ba-a639-463a-a3aa-6c805a93fad3)
@@ -22,6 +22,7 @@ Assetto Corsaで使用できる学生フォーミュラ日本大会のMODです�
 - FSAEJ_Endurance (Download from this Github)
 - FSAEJ_Acceleration (Download from this Github)
 - FSAEJ_Skidpad (Download from this Github)
+- ASE_Endurance (Download from this Github)
 ##### オプション -Option-
 - [InvalidateLap app](https://assettocorsamods.net/resources/invalidatelap.192/)(assettocorsamods.netのアカウント登録が必要です)
 - [MultiLaps app](https://www.racedepartment.com/downloads/multilaps.4997/)(Racedepartmentのアカウント登録が必要です)
@@ -47,13 +48,13 @@ Content Managerを起動する際に下のようなメッセージが表示さ�
 ![image](https://user-images.githubusercontent.com/81402033/113233557-78ac0f80-92da-11eb-9887-8931afd3e4e5.png)
 
 ### 3. MODデータの導入
-[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `FSAEJ_Acceleration.zip` `FSAEJ_Skidpad.zip` `NK16_ICV.zip`をダウンロードする． 
+[GitHub](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator)から[Releases](https://github.com/JSAE-ARCHIVES/FSAEJ-simulator/releases)をクリックし、Latest releaseマークのついている最新バージョンの`FSAEJ_Endurance.zip` `FSAEJ_Acceleration.zip` `FSAEJ_Skidpad.zip` `ASE_Endurance.zip` `NK16_ICV.zip`をダウンロードする． 
 
 
 ![スクリーンショット 2021-05-15 133005](https://user-images.githubusercontent.com/81402033/118347978-12293b00-b582-11eb-8bd1-73e380af0dbb.png)
 ![スクリーンショット 2021-05-15 130947](https://user-images.githubusercontent.com/81402033/118347981-16555880-b582-11eb-9019-8dad97d062ac.png)
 
-ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `FSAEJ_Acceleration` `FSAEJ_Skidpad` `NK16_ICV` フォルダが作成される．
+ダウンロードされた各Zipファイルを解凍すると，`FSAEJ_Endurance` `FSAEJ_Acceleration` `FSAEJ_Skidpad` `ASE_Endurance` `NK16_ICV` フォルダが作成される．
 
 **[注意]**    
  - **Zipの解凍方法によっては解凍して作成されたフォルダの下層にもう一つフォルダが作成されている場合があります．その場合は下層のフォルダを使用して下さい．**  
@@ -63,7 +64,7 @@ Content Managerを起動する際に下のようなメッセージが表示さ�
 #### **●コースMODの導入**   
 `FSAEJ_Endurance`フォルダを
 `C:\Program Files (x86)\Steam\steamapps\common\assettocorsa\content\tracks`
-に配置する．`FSAEJ_Acceleration` `FSAEJ_Skidpad`についても同様．  
+に配置する．`FSAEJ_Acceleration` `FSAEJ_Skidpad` `ASE_Endurance`についても同様．  
 
 ![image](https://user-images.githubusercontent.com/81402033/113249515-c84e0380-92f9-11eb-927b-15e82886d767.png)
 
@@ -130,7 +131,8 @@ Yes, please をクリックし，Custom Shaders Patchをオンにする．
 
 **[注意]**    
  - **連続でパイロンを踏んだ時,高速でパイロンを踏んだ時などはカウントできていないことがあります．あくまで目安として使用して下さい．**    
- - **カウント機能とは別に，FFB付きのハンコンを使用している場合，パイロンを踏んだ時に小さなフィードバックがくるように設定しています．カウントと併せてパイロンタッチの参考にしてください．**   
+ - **カウント機能とは別に，FFB付きのハンコンを使用している場合，パイロンを踏んだ時に小さなフィードバックがくるように設定しています．カウントと併せてパイロンタッチの参考にしてください．**
+ - **2025年7月22日現在エコパのみの対応となり，ASEには対応していません．ご了承ください．**   
 
 #### **●ラップタイム計測アプリの導入**
 [RaceDepartment](https://www.racedepartment.com/)へアクセスし LOG IN からアカウントの登録をする． 
